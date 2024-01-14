@@ -15,7 +15,17 @@ Where y is the dependent variable, x is the independent variable, m is the slope
 In the case of multiple linear regression with more than one independent variable, the equation becomes:
 "y = m1x1+ m2x2+ m3x3+......... +  b"
 
-Where y is the dependent variable,
-x1,x2,x3....... is the independent variable, 
-m1,m2,m3......is the slope of the line,
-and b is the y-intercept."
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Linear Regression</title>
+</head>
+<body>
+    <p>Where <strong>y</strong> is the dependent variable,</p>
+    <p><strong>x<sub>1</sub>, x<sub>2</sub>, x<sub>3</sub>, ...</strong> are the independent variables,</p>
+    <p><strong>m<sub>1</sub>, m<sub>2</sub>, m<sub>3</sub>, ...</strong> are the slopes of the line,</p>
+    <p>and <strong>b</strong> is the y-intercept.</p>
+</body>
+</html>
