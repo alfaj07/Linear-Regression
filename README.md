@@ -20,7 +20,7 @@ In the case of multiple linear regression with more than one independent variabl
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Linear Regression</title>
+
 </head>
 <body>
     <p>Where <strong>y</strong> is the dependent variable,</p>
